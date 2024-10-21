@@ -27,6 +27,10 @@ Esse vídeo evidencia o funcionamento:
   <source src="video_funcionamento__1.mp4" type="video/mp4">
 </video>
 
+Link: [Video](https://drive.google.com/file/d/1HyOpZjnPIvo7WHfZWJVZKbYFeA9lgTOo/view?usp=sharing)
+
+(Video incluso no repositório).
+
 ## Tinkercad
 Projeto criado no Tinkercad.
 
